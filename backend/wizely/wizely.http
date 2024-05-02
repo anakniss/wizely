@@ -1,0 +1,6 @@
+@wizely_HostAddress = http://localhost:5242
+
+GET {{wizely_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
