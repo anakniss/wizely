@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("wizely")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cf943904617930e150730aa4619689adc5a7b89e")]
 [assembly: System.Reflection.AssemblyProductAttribute("wizely")]
 [assembly: System.Reflection.AssemblyTitleAttribute("wizely")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
